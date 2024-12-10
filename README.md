@@ -5,9 +5,9 @@
 Toutes les 3heures un évenements véhicule parmis les 5 evenements se passe
 
 #  ⚜️ __Installation__
-** - Mettre VehicleEvents_1.dll dans votre dossier plugin  de votre serveur ** 
+ - Mettre VehicleEvents_1.dll dans votre dossier plugin  de votre serveur 
 
-** - Lancez le serveur !** 
+ - Lancez le serveur !
 
 #  📦 __Dépendance__
 
